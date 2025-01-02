@@ -10,7 +10,6 @@ Tecnologias Utilizadas<br>
 Objetivo
 Este projeto foi criado para praticar os conceitos de design responsivo, utilização do Bootstrap e HTML, com foco na construção de uma interface visualmente atrativa e funcional.
 
-Links
 [Repositório no GitHub](https://github.com/ErikBdaSilva20/We-Care-About-Your-Pet.git)
 <br>
 [Projeto no GitHub Pages](https://erikbdasilva20.github.io/We-Care-About-Your-Pet/)
