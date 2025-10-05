@@ -14,7 +14,10 @@
 </div>
 
 <h4>🌐 LinkedIn:</h4>
-<a href="www.linkedin.com/in/erik-borgessilva20" target="_blank">www.linkedin.com/in/erik-borgessilva20</a>
+<a href="https://www.linkedin.com/in/erik-borgessilva20" target="_blank">
+  www.linkedin.com/in/erik-borgessilva20
+</a>
+
 
 <h4>🌐 Projeto no GitHub Pages:</h4>
 <a href="https://erikbdasilva20.github.io/We-Care-About-Your-Pet/" target="_blank">https://erikbdasilva20.github.io/We-Care-About-Your-Pet/</a>
