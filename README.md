@@ -1,6 +1,7 @@
  <h1>We Care About Your Pet 🐾</h1>
 
 <h2>🔹 Sobre o Projeto</h2>
+
 <p>O <strong>We Care About Your Pet</strong> é um projeto desenvolvido com <strong>HTML</strong>, <strong>CSS</strong> e <strong>Bootstrap</strong>, com o objetivo de criar um layout responsivo e moderno. Explorando como essas tecnologias podem ser utilizadas para construir uma interface adaptável a diferentes dispositivos.</p>
 
 <h2>🎯 Objetivo</h2>
