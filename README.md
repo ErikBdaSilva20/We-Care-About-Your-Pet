@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
 </div>
+<br/>
+<br/>
 
-<h4>🌐 LinkedIn:</h4>
-<a href="www.linkedin.com/in/erik-borgessilva20" target="_blank">
-  www.linkedin.com/in/erik-borgessilva20
-</a>
+📂 Repositório no GitHub: [https://github.com/ErikBdaSilva20/We-Care-About-Your-Pet](https://github.com/ErikBdaSilva20/We-Care-About-Your-Pet)
 
-<h4>🌐 Projeto no GitHub Pages:</h4>
-<a href="https://erikbdasilva20.github.io/We-Care-About-Your-Pet/" target="_blank">https://erikbdasilva20.github.io/We-Care-About-Your-Pet/</a>
+🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/We-Care-About-Your-Pet/](https://erikbdasilva20.github.io/We-Care-About-Your-Pet/)
+
+🔗 Perfil no LinkedIn: [Mhttps://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)
